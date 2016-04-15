@@ -1,0 +1,4 @@
+# IntelliJ files
+.idea/
+# OSX files
+.DS_Store
